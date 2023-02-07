@@ -19,6 +19,7 @@
     "keywords": [],
     "packageManager": "npm@9.4.0",
     "scripts": {},
-    "dependencies": {},
-    "devDependencies": {}
+    "devDependencies": {
+        "typescript": "^4.9.5"
+    }
 }
